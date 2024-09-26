@@ -2,3 +2,4 @@
 Quiz 8
 
 ## Part 1
+- I found designer water_shed's touch-sensitive interactive design and was interested in it.
